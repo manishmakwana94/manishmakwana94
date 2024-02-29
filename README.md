@@ -1,3 +1,5 @@
+![logo](https://github.com/manishmakwana94/manishmakwana94/blob/main/Manish%20Makwana%20Full%20Stack%20Developer%20.png)
+
 <h1 align="center">Hi 👋, I'm Manish Makwana</h1>
 <h3 align="center">A passionate fullstack developer from India, Gujarat</h3>
 
